@@ -1,0 +1,36 @@
+    ------------------------------------
+    nom  et prenom :k
+    num Tel:4
+    sexe :h
+    adresse :h
+    salaire :1200
+    Conge :
+    salaire :1200
+    *************************************
+    ------------------------------------
+    nom  et prenom :f
+    num Tel:5
+    sexe :h
+    adresse :d
+    salaire :4
+    Conge :
+    salaire :4
+    *************************************
+    ------------------------------------
+    nom  et prenom :gfds
+    num Tel:555
+    sexe :h
+    adresse :gg
+    salaire :1200
+    Conge :
+    salaire :1200
+    *************************************
+    ------------------------------------
+    nom  et prenom :xxxx
+    num Tel:45555
+    sexe :f
+    adresse :xxx@gmail.com
+    salaire :1200
+    Conge :
+    salaire :1200
+    *************************************

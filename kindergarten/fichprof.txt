@@ -1,0 +1,28 @@
+    ------------------------------
+    nom  et prenom :d
+    num Tel:5
+    sexe :h
+    adresse :f
+    salaire :1200
+    *************************************
+    ------------------------------
+    nom  et prenom :ggg
+    num Tel:44
+    sexe :d
+    adresse :dd
+    salaire :0
+    *************************************
+    ------------------------------
+    nom  et prenom :yyyy
+    num Tel:4444444
+    sexe :h
+    adresse :yyyy@gmail.com
+    salaire :1200
+    *************************************
+    ------------------------------
+    nom  et prenom :hhh
+    num Tel:555
+    sexe :h
+    adresse :xxxx
+    salaire :1200
+    *************************************

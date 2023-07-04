@@ -1,0 +1,61 @@
+     ------------------------------
+    nom  et  prenom :sahar
+    num Tel:581475
+    sexe :f
+    adresse :s
+    niveau :4
+    activite: 
+    d	
+    montant a payer :250
+    *******************************
+    ------------------------------
+    nom  et  prenom :s
+    num Tel:4
+    sexe :h
+    adresse :s
+    niveau :5
+    activite: 
+    d	
+    montant a payer :300
+    *******************************
+    ------------------------------
+    nom  et  prenom :hgfd
+    num Tel:4888
+    sexe :h
+    adresse :ddf
+    niveau :5
+    activite: 
+    d	
+    montant a payer :300
+    *******************************
+    ------------------------------
+    nom  et  prenom :hgf
+    num Tel:741
+    sexe :f
+    adresse :dgg
+    niveau :5
+    activite: 
+    danse	
+    peinture	
+    montant a payer :300
+    *******************************
+    ------------------------------
+    nom  et  prenom :sahar
+    num Tel:58199582
+    sexe :f
+    adresse :sahar@gmail.com
+    niveau :5
+    activite: 
+    musique	
+    montant a payer :300
+    *******************************
+    ------------------------------
+    nom  et  prenom :sahaar
+    num Tel:555555
+    sexe :f
+    adresse :xxx@gmail.vcom
+    niveau :5
+    activite: 
+    danse	
+    montant a payer :300
+    *******************************
