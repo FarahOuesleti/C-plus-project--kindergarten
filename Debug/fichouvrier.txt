@@ -1,0 +1,14 @@
+    ----------------ouvrier 1--------------
+    nom  et prenom :ll
+    num Tel:111
+    sexe :h
+    adresse :ll
+    salaire :1111
+    *************************************
+    ----------------ouvrier 2--------------
+    nom  et prenom :kk
+    num Tel:22
+    sexe :h
+    adresse :jj
+    salaire :22222
+    *************************************

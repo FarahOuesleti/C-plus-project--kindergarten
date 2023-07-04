@@ -1,0 +1,7 @@
+    ----------------prof1--------------
+    nom  et prenom :kk
+    num Tel:2222
+    sexe :h
+    adresse :nnnnn
+    salaire :1200
+    *************************************
